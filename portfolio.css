@@ -1,13 +1,10 @@
 h1 {
-color: black;
-font-family: "Playfair Display", serif;
-font-weight: bold;
+  color: black;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
 }
-p{
-color:black;
-font-family: 'Poppins', sans-serif;
-}
-.fa{
-    color: black;
-    padding: 5px;
+
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
 }
